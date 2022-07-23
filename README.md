@@ -11,6 +11,9 @@ Tutorial : [PyQt Designer Tutorial](https://www.pythonguis.com/pyqt5-tutorial/)
     `pip install -r requirements.txt`
 
 ## Commands
+- How to start Pyqt Designer?
+
+    Open `cmd` and type `designer`.
 - Convert <filename>.ui file to <filename>.py
     
     `pyuic5 -x <filename>.ui -o <filename>.py`
