@@ -8,3 +8,6 @@ This is a GUI application created using `PyQt Designer` and `Python`.
  
 ## How to execute
 `python timezone_clock.py`
+
+## Executable file
+`PyQtDesigner-Series\timezone_clock\All Timezone Datetime.exe` is the executable file.
