@@ -28,5 +28,8 @@ Tutorial : [PyQt Designer Tutorial](https://www.pythonguis.com/pyqt5-tutorial/)
 
 ### Project Details
 1. **Project** : `timezone-clock`
-    - This project shows the live current datetime of each and every timezone. 
+    - This project shows the live current datetime of each and every timezone.
+2. **Project** : `Task Manager`
+    - This project keeps track of the task which can be development/Learning/other tasks.
+    - `python task_manager.py`
  
